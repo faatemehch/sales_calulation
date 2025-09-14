@@ -22,4 +22,3 @@
 4. **Environment configuration**
    ```bash
    cp .env.example .env
-   # Edit .env with your database and secret key
