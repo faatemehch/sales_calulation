@@ -7,7 +7,7 @@
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/faatemehch/sales_calulation](https://github.com/faatemehch/sales_calulation)
-   cd recipe-sharing-platforn-api
+   cd sales_calulation
 
 2. **Set up virtual environment**
    ```bash
